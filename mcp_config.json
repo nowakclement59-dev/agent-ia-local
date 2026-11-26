@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    "riot_games": {
+      "command": "python",
+      "args": [
+        "C:\\AgentIA\\mcp_riot.py"
+      ]
+    }
+  }
+}
